@@ -158,6 +158,3 @@ Dashboard Visualization
 
 ---
 
-# ⭐ Support
-
-If you found this project useful, please consider **starring the repository** to support the work.
